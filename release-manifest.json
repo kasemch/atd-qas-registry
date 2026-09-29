@@ -1,0 +1,11 @@
+{
+  "document_id": "SYS-ATD-RELEASE-02",
+  "version": "1.0",
+  "application_version": "1.4.1",
+  "mode": "synthetic-only non-production",
+  "deployment": "not deployed",
+  "index_sha256": "6a6861abd99cd36ffff81cfec772177c81832fe52a123835a3b86a58cf66c869",
+  "regulatory_S01": "HOLD",
+  "real_data": "PROHIBITED",
+  "http_acceptance": "PENDING"
+}
